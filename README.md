@@ -108,10 +108,10 @@ Thanks to the open-source community for making Readny possible with technologies
 📄 License
 This project is licensed under the MIT License.
 
-✍️ **Author**  
-**Anas Naffa** – [GitHub](https://github.com/nafeaanas)
-
 yaml
 Copier
 Modifier
 ---
+
+✍️ **Author**  
+**Anas Naffa** – [GitHub](https://github.com/nafeaanas)
