@@ -1,6 +1,7 @@
 # 📚 **Readny** – MERN Stack Cross-Platform Bookstore App
 
 **Readny** is a modern, cross-platform bookstore app built using the **MERN stack** (MongoDB, Express, React Native, Node.js). It allows users to discover, create, and share book recommendations, and it works seamlessly across **iOS**, **Android**, and web browsers.
+
 ✍️ **Author**  
 **Anas Naffa** – [GitHub](https://github.com/nafeaanas)
 ---
